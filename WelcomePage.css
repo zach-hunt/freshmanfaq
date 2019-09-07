@@ -10,3 +10,15 @@
   width:100%;
   pull-right
 }
+
+
+
+#NavBar{
+  background-color: #c7d2d6;
+}
+
+
+#bigLayout{
+  padding: 100px;
+  background-color: blue;
+}
