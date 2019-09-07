@@ -1,11 +1,9 @@
 Categories:
-
 Life
 Food
 Parking
 School Supplies
 Miscellaneous
-______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Life:
 	How do I find my way around?
@@ -19,7 +17,7 @@ Life:
 
 	What do a lot of successful students do?
 	Make your bed every morning. You'd be surprised how much that helps you feel great about the day and be successful.
-	
+
 Food:
 	How many meals do I need?
 	Downgrade your meal plan - most people eat less than they expect. I used 96 meals first semester and had extras. Plus, they run specials at the end of the year to add more meals/dollars.
