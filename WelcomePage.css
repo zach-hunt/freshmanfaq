@@ -5,6 +5,8 @@
 }
 
 
-.btn btn-info{
-  align-items: right;
+.navbar-header{
+  margin-left:5px;
+  width:100%;
+  pull-right
 }
