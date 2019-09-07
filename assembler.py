@@ -9,7 +9,7 @@ header.close()
 
 
 for cat, questions in qas.items():
-    faqpage.write("<br>\n<p>{0}:</p>".format(cat))
+    faqpage.write("<br>\n<h4>{0}:</h4>".format(cat))
     for question in questions:
         entry = """
 <!-- {0} -->
@@ -37,6 +37,9 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
+<nav class="navbar fixed-bottom navbar-light bg-light ">
+  <h6 class-"text-warning">Harshank and Zachary</h6>
+</nav>
 </div>
   </body>
 </html>""")

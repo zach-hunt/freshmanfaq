@@ -3,6 +3,7 @@ Life
 Food
 Parking
 School Supplies
+Academics
 Miscellaneous
 
 Life:
@@ -17,6 +18,9 @@ Life:
 
 	What do a lot of successful students do?
 	Make your bed every morning. You'd be surprised how much that helps you feel great about the day and be successful.
+	
+	What can I do on the weekends?
+	First of all, have fun! College life is a great time. However, one key to being able to hang with friends is also getting stuff done other times. Make sure you do one thing each day, even if it's just 30 minutes of math homework - commit to getting it done and do it. It's a lot better to do one thing well than to fail at the many things you need to get done. Plus, when you do go out, you'll be able to enjoy yourself and not be one of those people who complain about how much they have to do. Trust me, people will appreciate the lack of complaints. :))
 
 Food:
 	How many meals do I need?
@@ -26,13 +30,13 @@ Food:
 	NO! The meals do get cheaper as you buy more, it's true, but it's about 20¢ difference per meal. That's 2%. See "How many meals do I need?", above.
 
 	Where should I eat?
-	There are around 45 places to eat on campus. Make a list and start checking them out! You'll learn your way around, and you'll find a lot of gems.
+	There are around 45 places to eat on campus. Make <a href="https://www.dineoncampus.com/tamu/dining-map">a list</a> and start checking them out! You'll learn your way around, and you'll find a lot of gems.
 
 	When is food available?
-	Dining locations on north campus tend to be open later. You can view hours at https://www.dineoncampus.com/tamu/hours-of-operation.
+	Dining locations on north campus tend to be open later. You can view hours <a href="https://www.dineoncampus.com/tamu/hours-of-operation">here</a>.
 
 	What kinds of things are available to eat?
-	Restaurants have varying menus which you can check out at https://www.dineoncampus.com/tamu/whats-on-the-menu.
+	Restaurants have varying menus which you can check out at <a href="https://www.dineoncampus.com/tamu/whats-on-the-menu">dineoncampus.com</a>.
 
 	What are meal trades?
 	USELESS! Don't use them ever. Meals average $11.50, and you're trading them for a meal that would normally cost ~$6 dollars, even including fries, drinks, etc. Not worth it! Use dining dollars.
@@ -44,11 +48,11 @@ Food:
 	Duncan is the dining hall for the Corps of Cadets. Non-corps students can eat there as well, and I personally think you should, at least once. It's not the same quality, but it's interesting to see, and it makes for a fun story!
 
 	What's your favorite spot to eat?
-	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am. Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich. Rev's American Grill - the Good Bull. I won't spoil it.
+	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich.<br>Rev's American Grill - the Good Bull. I won't spoil the surprise :)
 
 Parking:
 	Should I get a parking pass?
-	Return your parking pass at the end of the year for a ~$100 refund. (Less for lots than garages)
+	Return your parking pass to Koldus (by Kyle Field and the MSC) at the end of the year for a ~$100 refund. (Less for lots than garages)
 
 	What are these emails from transportation services?
 	Transportation services sends email for every football game. The short story is that South Side Garage doesn't have to move, and most southside lots are probably fine to stay. For other places, you should check the email.
@@ -58,7 +62,7 @@ Parking:
 
 School Supplies:
 	Where can I get textbooks?
-	textbooksolutions.com is typically a lot cheaper than the bookstore. Not always, and they don't have everything, but it's right across from campus, so it's definitely worth checking.
+	<a href="textbooksolutions.com">TextbookSolutions.com</a> is typically a lot cheaper than the bookstore. Not always, and they don't have everything, but it's right across from campus, so it's definitely worth checking.
 
 	When should I get textbooks?
 	In my experience, you don't need actually most of the textbooks listed in your syllabuses. A lot are available electronically (see below about Cengage Unlimited). It's perfectly fine to wait until the first class period to get your books.
@@ -70,7 +74,7 @@ School Supplies:
 	Scantrons are 42.8% cheaper at the bookstore than the Aggie Expresses. Buy 10, leave 1 in your bag.
 
 	Do I need Cengage Unlimited?
-	Cengage Unlimited (2 Yr.) is almost certainly worth it for you. (Plus, it's $65 cheaper than in 2018!) (This applies to engineers, for sure. Others, do the math - you could save big.)
+	<a href="https://www.cengage.com/unlimited">Cengage Unlimited</a> (2 Yr.) is almost certainly worth it for you. (Plus, it's $65 cheaper than in 2018!) (This applies to engineers, for sure. Others, do the math - you could save big.)
 
 	Does the bookstore sell other stuff?
 	Predictably, TAMU will sell you any merch or school supplies you could possibly want. Also predictably, it's substantially more expensive than Amazon or Walmart. Don't get your calculators from there.
@@ -78,21 +82,19 @@ School Supplies:
 	Do I need a new calculator?
 	Maybe. A lot of classes will list specific calculator restrictions for exams, but those are frequently just suggestions. Check with your TA/Professor - there's a good chance they'll say what you have is great.
 
-Miscellaneous:
-	Where can I get tech help?
-	Helpdesk Central is a really cool building. (It's on the right as you leave Commons.)
-
-	Any first day tips?
-	Go to the first meeting of every class really early. It stinks to be in a hurry and lost on the first day. If you're early, you get a good seat, you make a good impression, you can be intentional about choosing your groups, and it's a lot cooler in the mornings!
-
+Academics:
 	What should I do during the first week?
 	The people that have a fun first week have a fun first week. The people that do homework as soon as they get it, just for the first week, have a fun first semester. Up to you, but starting and staying ahead is a lot easier than getting ahead from behind.
 
 	Where can I study?
-	Everywhere! You'll see people in the fields, on the stairs, in classrooms, in breakout rooms, in the library, in hammocks, in the dining halls, and in their dorms. It seriously pays to see what works for you.
+	Everywhere! You'll see people in the fields, on the stairs, in classrooms, in breakout rooms, in the library, in hammocks, in the dining halls, and in their dorms. It seriously pays to see what works for you. Try different things!
 
 	What should I do if I'm behind?
 	Apply the 80/20 rule. Identify the most high impact activities (whether studying or homework or whatever), and resolve to do one. Leave your dorm! Otherwise, you'll constantly fall off topic. Seriously, leave. (Also, leave everything you don't need - laptop/phone/tablet. You will survive. It's strangely freeing.)
 
-	What can I do on the weekends?
-	First of all, have fun! College life is a great time. However, one key to being able to hang with friends is also getting stuff done other times. Make sure you do one thing each day, even if it's just 30 minutes of math homework - commit to getting it done and do it. It's a lot better to do one thing well than to fail at the many things you need to get done. 
+Miscellaneous:
+	Where can I get tech help?
+	Helpdesk Central is a really cool building. (It's on the right as you leave Commons.) The people are super nice and fairly knowledgeable.
+
+	Any first day tips?
+	Go to the first meeting of every class really early. It stinks to be in a hurry and lost on the first day. If you're early, you get a good seat, you make a good impression, you can be intentional about choosing your groups, and it's a lot cooler in the mornings!
