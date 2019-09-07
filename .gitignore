@@ -25,4 +25,4 @@ env.bak/
 venv.bak/
 
 # Pycharm
-idea/
+.idea/
