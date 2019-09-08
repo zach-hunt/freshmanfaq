@@ -9,7 +9,7 @@ header.close()
 
 
 for cat, questions in qas.items():
-    faqpage.write("<br>\n<h4>{0}:</h4>".format(cat))
+    faqpage.write("<br><br>\n<h4>{0}:</h4>".format(cat))
     for question in questions:
         entry = """
 <!-- {0} -->
@@ -19,7 +19,8 @@ for cat, questions in qas.items():
 </div>\n""".format(*question)
         faqpage.write(entry)
 
-faqpage.write("""
+faqpage.write(r"""
+<br><br><br><br><br>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -38,7 +39,7 @@ for (i = 0; i < coll.length; i++) {
 </script>
 
 <nav class="navbar fixed-bottom" style="background-color: #607d8b;" id = "bottom">
-  <h6 class-"text-warning">Made by Harshank & Zachary at TAMU Hack 2019</h6>
+  <h6 class-"text-warning">Made by Harshank & Zachary Hunt at TAMU Hack 2019</h6>
 </nav>
 </div>
   </body>
