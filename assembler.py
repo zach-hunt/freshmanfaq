@@ -39,7 +39,7 @@ for (i = 0; i < coll.length; i++) {
 </script>
 
 <nav class="navbar fixed-bottom" style="background-color: #607d8b;" id = "bottom">
-  <h6 class-"text-warning">Made by Harshank & Zachary Hunt at TAMU Hack 2019</h6>
+  <h6 class-"text-warning">Made by Harshank & Zachary Hunt at TAMU Howdy Hack 2019</h6>
 </nav>
 </div>
   </body>
