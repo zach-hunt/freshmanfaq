@@ -1,10 +1,13 @@
-#Title{
+h2{
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
-  padding-left: 100px;
+  display: inline;
   color: white;
 }
 
+.float-right {
+    float: right
+}
 
 #bigLayout{
   padding: 100px;
