@@ -37,8 +37,8 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
-<nav class="navbar fixed-bottom navbar-light bg-light ">
-  <h6 class-"text-warning">Harshank and Zachary</h6>
+<nav class="navbar fixed-bottom" style="background-color: #607d8b;" id = "bottom">
+  <h6 class-"text-warning">Made by Harshank & Zachary at TAMU Hack 2019</h6>
 </nav>
 </div>
   </body>
