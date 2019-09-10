@@ -3,4 +3,4 @@ FAQ For TAMU Students - this is an ever-growing list of things I wish someone ha
 
 The backend is a Q&A text file which is assembled into valid HTML by a Python script Zach wrote. Much of the website styling and coloring was chosen and implemented by Harshank.
 
-Check it out at ZacharyPH.github.io/freshmanfaq
+Check it out at [ZacharyPH.github.io/freshmanfaq](ZacharyPH.github.io/freshmanfaq)
