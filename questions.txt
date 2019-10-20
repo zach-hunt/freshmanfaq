@@ -121,7 +121,7 @@ Miscellaneous:
 	Nope. Go to at least one football game over the next four years. You'll be glad you did, even if you're not a football person. It's a lot of fun, and it makes for a great story..
 
 	Those emails are fake, right?
-	You mean my email addresses? You're a very observant who hovers over hyperlinks! Turns out, I am the proud owner of both <a href="mailto:maroon@tamu.edu" target="_blank">maroon@tamu.edu</a> and <a href="mailto:heyyouIbetyoudidntknowInowofficiallyhavethelongestemailyoucanget@tamu.edu" target="_blank">heyyouIbetyoudidn'tknowInowofficiallyhavethelongestemailyoucanget@tamu.edu</a>. You can get your own on the <a href="directory.tamu.edu" target="_blank">TAMU Directory</a>!
+	You mean my email addresses? You're a very observant who hovers over hyperlinks! Turns out, I am the proud owner of both <a href="mailto:maroon@tamu.edu" target="_blank">maroon@tamu.edu</a> and <a href="mailto:heyyouIbetyoudidntknowInowofficiallyhavethelongestemailyoucanget@tamu.edu" target="_blank">heyyouIbetyoudidn'tknowInowofficiallyhavethelongestemailyoucanget@tamu.edu</a>. You can get your own on the <a href="https://directory.tamu.edu" target="_blank">TAMU Directory</a>!
 
 	How did you make this website?
 	This website is actually a text file assembled into valid HTML by a Python parser written by a guy who doesn't know HTML (That's me!). I'm sure the code makes actual devs cry, but I think the site turned out alright :). I came up with the majority of the above content at TAMU Howdy Hack 2019. Check out the <a href="https://github.com/ZacharyPH/freshmanfaq" target="_blank">GitHub</a> or contact me at <a href="mailto:maroon@tamu.edu" target="_blank">send me an email</a> for more details!
