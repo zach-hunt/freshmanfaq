@@ -36,6 +36,7 @@ def parse(filename: str) -> dict:
                 continue
             question = line
             answer = questions.readline()
+            # print(cat, qid)
             try:
                 QAs[cat][qid] = [qid, question[1:-1], answer[1:-1]]
             except IndexError:

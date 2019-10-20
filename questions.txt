@@ -1,26 +1,10 @@
 Categories:
-Life
 Food
 Parking
 School Supplies
 Academics
+Life
 Miscellaneous
-
-Life:
-	How do I find my way around?
-	Get lost intentionally - that's how you avoid doing it accidentally in the future. Also, use <a href="http://aggiemap.tamu.edu" target="_blank">aggiemap.tamu.edu</a> for finding buildings and the very helpful <a href="http://www.aggiemaps.com" target="_blank">aggiemaps.com</a> to understand the bus system.
-
-	What orgs should I join?
-	The Navigators are a great Bible study organization, and we'd love to get you involved. Check out <a href="http://www.AggieNavs.org" target="_blank">AggieNavs.org</a>! Also, <a href="http://studentactivities.tamu.edu" target="_blank">Student Activities</a> has a list of all on-campus organizations.
-
-	How should I schedule my day?
-	Waking up early is basically a super power, just saying. (Ask me about it!). A lot of people prefer morning classes because it gets them up and out. Others are fans of afternoon sections so they can stay out late. Again, I'd recommend experimenting, but I personally have found that evening classes can be pretty rough and make for a long day.
-
-	What do a lot of successful students do?
-	Make your bed every morning. You'd be surprised how much that helps you feel great about the day and be successful.<br>When you get home from somewhere, resist the urge to dump stuff on your bed. Take the minute to put everything where it goes, and you won't have big messes to clean up as much.
-
-	What can I do on the weekends?
-	First of all, have fun! College life is a great time. However, one key to being able to hang with friends is also getting stuff done other times. Make sure you do one thing each day, even if it's just 30 minutes of math homework - commit to getting it done and do it. It's a lot better to do one thing well than to fail at the many things you need to get done. Plus, when you do go out, you'll be able to enjoy yourself and not be one of those people who complain about how much they have to do. Trust me, people will appreciate the lack of complaints. :)
 
 Food:
 	How many meals do I need?
@@ -86,6 +70,9 @@ School Supplies:
 	Umbrella. Is that a school supply? Definitely. I'm not joking. You won't need it, and you'll think I'm crazy, right up until the day that it saves your life. Get one.
 
 Academics:
+	Any tips for finals?
+	I'm glad you asked! If you have more than two finals on one day, you can reschedule at least one of them. (This is <a href="https://student-rules.tamu.edu/rule08/" target="_blank">Student Rule 8.4</a>.) You can check the finals schedule on the <a href="http://registrar.tamu.edu/Courses,-Registration,-Scheduling/Final-Examination-Schedules" target="_blank">Registrar's Website</a>.
+
 	What should I do during the first week?
 	The people that have a fun first week have a fun first week. The people that do homework as soon as they get it, just for the first week, have a fun first semester. Up to you, but starting and staying ahead is a lot easier than getting ahead from behind. On the flip side, be sure to explore (get lost on) campus and make friends. They're everwhere!
 
@@ -103,6 +90,22 @@ Academics:
 
 	Where are syllabuses?
 	Class syllabi are typically posted under your course in eCampus (<a href="https://tamu.blackboard.com" target="_blank">Blackboard</a>), but that can take a while, and they're always in <a href="http://howdy.tamu.edu" target="_blank">Howdy</a>.
+
+Life:
+	How do I find my way around?
+	Get lost intentionally - that's how you avoid doing it accidentally in the future. Also, use <a href="http://aggiemap.tamu.edu" target="_blank">aggiemap.tamu.edu</a> for finding buildings and the very helpful <a href="http://www.aggiemaps.com" target="_blank">aggiemaps.com</a> to understand the bus system.
+
+	What orgs should I join?
+	The Navigators are a great Bible study organization, and we'd love to get you involved. Check out <a href="http://www.AggieNavs.org" target="_blank">AggieNavs.org</a>! Also, <a href="http://studentactivities.tamu.edu" target="_blank">Student Activities</a> has a list of all on-campus organizations.
+
+	How should I schedule my day?
+	Waking up early is basically a super power, just saying. (Ask me about it!). A lot of people prefer morning classes because it gets them up and out. Others are fans of afternoon sections so they can stay out late. Again, I'd recommend experimenting, but I personally have found that evening classes can be pretty rough and make for a long day.
+
+	What do a lot of successful students do?
+	Make your bed every morning. You'd be surprised how much that helps you feel great about the day and be successful.<br>When you get home from somewhere, resist the urge to dump stuff on your bed. Take the minute to put everything where it goes, and you won't have big messes to clean up as much.
+
+	What can I do on the weekends?
+	First of all, have fun! College life is a great time. However, one key to being able to hang with friends is also getting stuff done other times. Make sure you do one thing each day, even if it's just 30 minutes of math homework - commit to getting it done and do it. It's a lot better to do one thing well than to fail at the many things you need to get done. Plus, when you do go out, you'll be able to enjoy yourself and not be one of those people who complain about how much they have to do. Trust me, people will appreciate the lack of complaints. :)
 
 Miscellaneous:
 	Where can I get tech help?
