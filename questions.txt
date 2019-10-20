@@ -23,16 +23,16 @@ Food:
 	Restaurants have varying menus which you can check out at <a href="https://www.dineoncampus.com/tamu/whats-on-the-menu" target="_blank">dineoncampus.com</a>.
 
 	What are meal trades?
-	USELESS! Don't use them ever. Meals average $11.50, and you're trading them for a meal that would normally cost ~$6 dollars, even including fries, drinks, etc. Not worth it! Use dining dollars.
+	USELESS! Don't use them ever. Meals average $11.50, and you're trading them for a meal that would normally cost ~$6 dollars, even including fries, drinks, etc. Not worth it! Use dining dollars anywhere that's not a dining hall (meal swipes are sometimes worth it there: see below).
 
 	What about dining halls?
 	There are three dining halls on campus: Sbisa (North), Commons (South), and Duncan (Corps). Even at the dining halls, using meals isn't always the best option. Ask the cashiers the dining dollar cost. Typically, it's cheaper to use dining dollars than meals swipes for breakfast, and sometimes lunch. (Dinner is usually worth the meal swipe.) This is a large reason behind why you probably need fewer meals than you think.
 
 	What's up with Duncan Dining Hall?
-	Duncan is the dining hall for the Corps of Cadets. Non-corps students can eat there as well, and I personally think you should, at least once. It's not the same quality, but it's interesting to see, and it makes for a fun story!
+	Duncan is the dining hall for the Corps of Cadets. Non-corps students can eat there as well (though not every day), and I personally think you should, at least once. It's not the same quality, but it's interesting to see, and it makes for a fun story!
 
 	What's your favorite spot to eat?
-	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich.<br>Rev's American Grill - the Good Bull. I won't spoil the surprise :)
+	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich. (Pro tip: you can order any sandwich on the menu grilled!)<br>Rev's American Grill - the Good Bull. I won't spoil the surprise :) (They also have good bean burgers and salads.)
 
 Parking:
 	Should I get a parking pass?
@@ -99,7 +99,7 @@ Life:
 	The Navigators are a great Bible study organization, and we'd love to get you involved. Check out <a href="http://www.AggieNavs.org" target="_blank">AggieNavs.org</a>! Also, <a href="http://studentactivities.tamu.edu" target="_blank">Student Activities</a> has a list of all on-campus organizations.
 
 	How should I schedule my day?
-	Waking up early is basically a super power, just saying. (Ask me about it!). A lot of people prefer morning classes because it gets them up and out. Others are fans of afternoon sections so they can stay out late. Again, I'd recommend experimenting, but I personally have found that evening classes can be pretty rough and make for a long day.
+	Waking up early is basically a super power, just saying. (<a href="mailto:heyyouIbetyoudidntknowInowofficiallyhavethelongestemailyoucanget@tamu.edu">Ask me about it!</a>). A lot of people prefer morning classes because it gets them up and out. Others are fans of afternoon sections so they can stay out late. Again, I'd recommend experimenting, but I personally have found that evening classes can be pretty rough and make for a long day.
 
 	What do a lot of successful students do?
 	Make your bed every morning. You'd be surprised how much that helps you feel great about the day and be successful.<br>When you get home from somewhere, resist the urge to dump stuff on your bed. Take the minute to put everything where it goes, and you won't have big messes to clean up as much.
@@ -119,3 +119,9 @@ Miscellaneous:
 
 	Should I be a 2%er?
 	Nope. Go to at least one football game over the next four years. You'll be glad you did, even if you're not a football person. It's a lot of fun, and it makes for a great story..
+
+	Those emails are fake, right?
+	You mean my email addresses? You're a very observant who hovers over hyperlinks! Turns out, I am the proud owner of both <a href="mailto:maroon@tamu.edu" target="_blank">maroon@tamu.edu</a> and <a href="mailto:heyyouIbetyoudidntknowInowofficiallyhavethelongestemailyoucanget@tamu.edu" target="_blank">heyyouIbetyoudidn'tknowInowofficiallyhavethelongestemailyoucanget@tamu.edu</a>. You can get your own on the <a href="directory.tamu.edu" target="_blank"TAMU Directory</a>!
+
+	How did you make this website?
+	This website is actually a text file assembled into valid HTML by a Python parser written by a guy who doesn't know HTML (That's me!). I'm sure the code makes actual devs cry, but I think the site turned out alright :). I came up with the majority of the above content at TAMU Howdy Hack 2019. Check out the <a href="https://github.com/ZacharyPH/freshmanfaq" target="_blank">GitHub</a> or contact me at <a href="mailto:maroon@tamu.edu" target="_blank">send me an email</a> for more details!
