@@ -1,4 +1,5 @@
 from QAParser import parse, qaoutput
+from datetime import datetime
 
 qas = parse("questions.txt")
 # qaoutput(qas)
@@ -19,6 +20,7 @@ for cat, questions in qas.items():
 </div>\n""".format(*question)
         faqpage.write(entry)
 
+today = datetime.now().strftime("%m/%d/%Y")
 faqpage.write(r"""
 <br><br><br><br><br>
 <script>
@@ -38,11 +40,14 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
-<nav class="navbar fixed-bottom" style="background-color: #607d8b;" id = "bottom">
-  <h6 class-"text-warning">Made by Zachary Hunt at TAMU Howdy Hack 2019. Last Updated: June 25, 2020</h6>
+<nav class="modal-footer" style="background-color: #607d8b;" id = "bottomL">
+  <div class="col" style="color:#FFFF; text-align:left">Made by Zachary Hunt at TAMU Howdy Hack 2019.</div>
+  <div class="col" style="color:#FFFF; text-align:right">Last Updated: {0}</div>
 </nav>
 </div>
   </body>
-</html>""")
+</html>""".replace("{0}", today))   # Is the the correct way to do this? No, most definitely certainly it is not.
+# Am I going to leave it? Yes. Why? I intend to update this with properly done HTML at some point, and .format()
+# is behaving in a way I don't care to understand. Deal with it :)
 
 faqpage.close()
