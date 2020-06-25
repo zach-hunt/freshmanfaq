@@ -3,6 +3,7 @@ Food
 Parking
 School Supplies
 Academics
+AP and Dual Credit
 Life
 Miscellaneous
 
@@ -91,6 +92,25 @@ Academics:
 	Where are syllabuses?
 	Class syllabi are typically posted under your course in eCampus (<a href="https://tamu.blackboard.com" target="_blank">Blackboard</a>), but that can take a while, and they're always in <a href="http://howdy.tamu.edu" target="_blank">Howdy</a>.
 
+AP and Dual Credit:
+	Should I accept my AP credit from highschool?
+	Not necessarily. While they will not count again the 170-Hour Rule (see below), they do count as hours taken in the semester in which you claim them. Thus, if you take 12 hours and claim 3 hours from AP, this can fulfill any scholarship requirements of 15+ hours a semester. If you need the pre-requisites, accept the credit, but if not, you should probably hold off. See below for the process and potential benefits.
+
+	How do I accept my AP credit from highschool?
+	That is done through <a href="https://howdy.tamu.edu">Howdy</a>. Click my record (second tab at the top), and then look for Credit By Examination towards the bottom of the Grades and Transcripts Box. If you cannot find it, search the page with cmd/ctrl + f or use the Howdy search bar. From there, select which class(es) you want applied. For help deciding, see the question above and the benefits below.
+
+	Should I accept my Dual Credit from highschool?
+	Turns out that all your dual credit is automatically accepted when you get into the school, so you don't need to do anything. Consequences? See below
+
+	Will my AP/Dual Credit cost me out-of-state tuition?
+	No. AP/Dual credit earned before entering A&M does not count towards the 170-Hour Rule (see below).
+
+	What is the 170-Hour Rule?
+	Once you've taken a certain number of hours from A&M , they will start charging you out of state tuition. This is the <a href="http://registrar.tamu.edu/Catalogs,-Policies-Procedures/State-Policies/Excess-Credit-Hours" target="_blank">170-Hour Rule</a> and it's intended to prevent professional students. In order to be in danger, you have to take 45 hours more than your degree requires (engineering degrees are usually about 130 hours, depending on minors, etc.).
+
+	What are the benefits of accepting AP/Dual Credit?
+	Clearly, if you have credit for a required class, you can skip it. AP and dual credit can also be used to fill in pre-reqs or core requirements. Additionally, your classification at A&M is based on your number of credit hours (Freshman U1 < 30, Sophomore U2 < 60, Junior U3 < 90, Senior U4 >=90). This classification matters in three places: 1) Registration: Upperclassmen get priority registration for classes. 2) Ticket pull: Again, Upperclassmen pull football tickets sooner than lower classifications (even if you're pulling for a group of freshmen!) 3) Aggie Ring: You need to be a U3 (Junior - 60+ hours) to get your Aggie Ring. 45+ hours must be from A&M, so if you transfer in more than about 5 classes, you can get your ring immediately after your freshman year!.
+
 Life:
 	How do I find my way around?
 	Get lost intentionally - that's how you avoid doing it accidentally in the future. Also, use <a href="http://aggiemap.tamu.edu" target="_blank">aggiemap.tamu.edu</a> for finding buildings and the very helpful <a href="http://www.aggiemaps.com" target="_blank">aggiemaps.com</a> to understand the bus system.
@@ -124,4 +144,4 @@ Miscellaneous:
 	You mean my email addresses? You're a very observant who hovers over hyperlinks! Turns out, I am the proud owner of both <a href="mailto:maroon@tamu.edu" target="_blank">maroon@tamu.edu</a> and <a href="mailto:heyyouIbetyoudidntknowInowofficiallyhavethelongestemailyoucanget@tamu.edu" target="_blank">heyyouIbetyoudidn'tknowInowofficiallyhavethelongestemailyoucanget@tamu.edu</a>. You can get your own on the <a href="https://directory.tamu.edu" target="_blank">TAMU Directory</a>!
 
 	How did you make this website?
-	This website is actually a text file assembled into valid HTML by a Python parser written by a guy who doesn't know HTML (That's me!). I'm sure the code makes actual devs cry, but I think the site turned out alright :). I came up with the majority of the above content at TAMU Howdy Hack 2019. Check out the <a href="https://github.com/ZacharyPH/freshmanfaq" target="_blank">GitHub</a> or contact me at <a href="mailto:maroon@tamu.edu" target="_blank">send me an email</a> for more details!
+	This website is actually a text file assembled into valid HTML by a Python parser written by a guy who doesn't know HTML (That's me!). I'm sure the code makes actual devs cry, but I think the site turned out alright :). I came up with the majority of the above content at TAMU Howdy Hack 2019. Check out the <a href="https://github.com/ZacharyPH/freshmanfaq" target="_blank">GitHub Repository</a> or contact me at <a href="mailto:maroon@tamu.edu" target="_blank">send me an email</a> for more details!
