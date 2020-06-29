@@ -92,8 +92,8 @@ Academics:
 	Where are syllabuses?
 	Class syllabi are typically posted under your course in eCampus (<a href="https://tamu.blackboard.com" target="_blank">Blackboard</a>), but that can take a while, and they're always in <a href="http://howdy.tamu.edu" target="_blank">Howdy</a>.
 
-    What is ETAM?
-    Entry To A Major is a process where engineering freshmen/sophomores are admitted into a major in the department of their choice. It typically occurs around the middle of June, the summer following your freshman year, though it can take longer. For most engineering departments, as of 2020, you will be automatically admitted if your GPA is greater than 3.5 and you have completed all of the necessary core classes (calculus, ENGR 102/216, etc.). You can read more <a href="https://engineering.tamu.edu/academics/undergraduate/entry-to-a-major/index.html">here</a>.
+	What is ETAM?
+	Entry To A Major is a process where engineering freshmen/sophomores are admitted into a major in the department of their choice. It typically occurs around the middle of June, the summer following your freshman year, though it can take longer. For most engineering departments, as of 2020, you will be automatically admitted if your GPA is greater than 3.5 and you have completed all of the necessary core classes (calculus, ENGR 102/216, etc.). You can read more <a href="https://engineering.tamu.edu/academics/undergraduate/entry-to-a-major/index.html" target="_blank">here</a>.
 
 AP and Dual Credit:
 	Should I accept my AP credit from highschool?
