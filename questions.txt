@@ -24,7 +24,7 @@ Food:
 	Restaurants have varying menus which you can check out at <a href="https://www.dineoncampus.com/tamu/whats-on-the-menu" target="_blank">dineoncampus.com</a>.
 
 	What are meal trades?
-	USELESS! Don't use them ever. Meals average $11.50, and you're trading them for a meal that would normally cost ~$6 dollars, even including fries, drinks, etc. Not worth it! Use dining dollars anywhere that's not a dining hall (meal swipes are sometimes worth it there: see below).
+	USELESS*! Don't use them ever. Meals average $11.50, and you're trading them for a meal that would normally cost ~$6 dollars, even including fries, drinks, etc. Not worth it! Use dining dollars anywhere that's not a dining hall (meal swipes are sometimes worth it there: see below).<br><br>*Okay, *usually* useless. The meal trades at Revs can be a good deal, if you were planning on getting a meal, side, and drink anyway. Just do the math - they're happy to take a $12 meal trade for $8 of food all day long.
 
 	What about dining halls?
 	There are three dining halls on campus: Sbisa (North), Commons (South), and Duncan (Corps). Even at the dining halls, using meals isn't always the best option. Ask the cashiers the dining dollar cost. Typically, it's cheaper to use dining dollars than meals swipes for breakfast, and sometimes lunch. (Dinner is usually worth the meal swipe.) This is a large reason behind why you probably need fewer meals than you think.
@@ -33,7 +33,7 @@ Food:
 	Duncan is the dining hall for the Corps of Cadets. Non-corps students can eat there as well (though not every day), and I personally think you should, at least once. It's not the same quality, but it's interesting to see, and it makes for a fun story!
 
 	What's your favorite spot to eat?
-	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich. (Pro tip: you can order any sandwich on the menu grilled!)<br>Rev's American Grill - the Good Bull. I won't spoil the surprise :) (They also have good bean burgers and salads.)
+	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich. (Pro tip: you can order any sandwich on the menu grilled!)<br>Rev's American Grill - the Good Bull. I won't spoil the surprise :) (They also have good bean burgers, cheeseburgers, fries, and salads.)
 
 Parking:
 	Should I get a parking pass?
@@ -112,7 +112,7 @@ AP and Dual Credit:
 	Once you've taken a certain number of hours from A&M , they will start charging you out of state tuition. This is the <a href="http://registrar.tamu.edu/Catalogs,-Policies-Procedures/State-Policies/Excess-Credit-Hours" target="_blank">170-Hour Rule</a> and it's intended to prevent professional students. In order to be in danger, you have to take 45 hours more than your degree requires (engineering degrees are usually about 130 hours, depending on minors, etc.).
 
 	What are the benefits of accepting AP/Dual Credit?
-	Clearly, if you have credit for a required class, you can skip it. AP and dual credit can also be used to fill in pre-reqs or core requirements. Additionally, your classification at A&M is based on your number of credit hours (Freshman U1 < 30, Sophomore U2 < 60, Junior U3 < 90, Senior U4 >=90). This classification matters in three places: 1) Registration: Upperclassmen get priority registration for classes. 2) Ticket pull: Again, Upperclassmen pull football tickets sooner than lower classifications (even if you're pulling for a group of freshmen!) 3) Aggie Ring: You need to be a U3 (Junior - 60+ hours) to get your Aggie Ring. 45+ hours must be from A&M, so if you transfer in more than about 5 classes, you can get your ring immediately after your freshman year!.
+	Clearly, if you have credit for a required class, you can skip it. AP and dual credit can also be used to fill in pre-reqs or core requirements. Additionally, your classification at A&M is based on your number of credit hours (Freshman U1 < 30, Sophomore U2 < 60, Junior U3 < 90, Senior U4 >=90). This classification matters in three places:<br><br>1) Registration: Upperclassmen get priority registration for classes.<br>2) Ticket pull: Again, Upperclassmen pull football tickets sooner than lower classifications (even if you're pulling for a group of freshmen!)<br>3) Aggie Ring: You need to be a U3 (Junior - 60+ hours) to get your Aggie Ring. 45+ hours must be from A&M, so if you transfer in more than about 5 classes, you can get your ring immediately after your freshman year!.
 
 Life:
 	How do I find my way around?
@@ -128,7 +128,7 @@ Life:
 	Make your bed every morning. You'd be surprised how much that helps you feel great about the day and be successful.<br>When you get home from somewhere, resist the urge to dump stuff on your bed. Take the minute to put everything where it goes, and you won't have big messes to clean up as much.
 
 	What can I do on the weekends?
-	First of all, have fun! College life is a great time. However, one key to being able to hang with friends is also getting stuff done other times. Make sure you do one thing each day, even if it's just 30 minutes of math homework - commit to getting it done and do it. It's a lot better to do one thing well than to fail at the many things you need to get done. Plus, when you do go out, you'll be able to enjoy yourself and not be one of those people who complain about how much they have to do. Trust me, people will appreciate the lack of complaints. :)
+	First of all, have fun! College life is a great time. However, one key to being able to hang with friends is also getting stuff done other times. Make sure you do one thing each day, even if it's just 30 minutes of math homework - commit to getting it done and do it. It's a lot better to do one thing well than to fail at the many things you need to get done.<br>Plus, when you do go out, you'll be able to enjoy yourself and not be one of those people who complain about how much they have to do. Trust me, people will appreciate the lack of complaints. :)
 
 Miscellaneous:
 	Where can I get tech help?
