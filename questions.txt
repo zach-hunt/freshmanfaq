@@ -97,7 +97,7 @@ Academics:
 
 AP and Dual Credit:
 	Should I accept my AP credit from highschool?
-	Not necessarily. While they will not count again the 170-Hour Rule (see below), they do count as hours taken in the semester in which you claim them. Thus, if you take 12 hours and claim 3 hours from AP, this can fulfill any scholarship requirements of 15+ hours a semester. If you need the pre-requisites, accept the credit, but if not, you should probably hold off. See below for the process and potential benefits.
+	Not necessarily. While they will not count against the 170-Hour Rule (see below), they do count as hours taken in the semester in which you claim them. Thus, if you take 12 hours and claim 3 hours from AP, this can fulfill any scholarship requirements of 15+ hours a semester. If you need the pre-requisites, accept the credit, but if not, you should probably hold off. See below for the process and potential benefits.
 
 	How do I accept my AP credit from highschool?
 	That is done through <a href="https://howdy.tamu.edu">Howdy</a>. Click my record (second tab at the top), and then look for Credit By Examination towards the bottom of the Grades and Transcripts Box. If you cannot find it, search the page with cmd/ctrl + f or use the Howdy search bar. From there, select which class(es) you want applied. For help deciding, see the question above and the benefits below.
