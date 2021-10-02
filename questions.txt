@@ -36,7 +36,7 @@ Food:
 	Duncan is the dining hall for the Corps of Cadets. Non-corps students can eat there as well (though not every day), and I personally think you should, at least once. It's not the same quality, but it's interesting to see, and it makes for a fun story!
 
 	What's your favorite spot to eat?
-	The Grill at the Pavilion - breakfast taco combo with sausage. $5.50 for two fantastic tacos. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Fantastic warm sandwich. (Pro tip: you can order any sandwich on the menu grilled!)<br>Rev's American Grill - the Good Bull. I won't spoil the surprise :) (They also have good bean burgers, cheeseburgers, fries, and salads.)
+	The Grill at the Pavilion - Breakfast Burrito. Served until 10am.<br>Azimuth Cafe in Langford - Tuscan Chicken. Kolaches and fantastic warm sandwiches. (Pro tip: you can order any sandwich on the menu grilled!)<br>Rev's American Grill - Good bean burgers and shakes!
 
 Parking:
 	Should I get a parking pass?
@@ -96,7 +96,7 @@ Academics:
 	Class syllabi are typically posted under your course in eCampus (<a href="https://tamu.blackboard.com" target="_blank">Blackboard</a>), but that can take a while, and they're always in <a href="http://howdy.tamu.edu" target="_blank">Howdy</a>.
 
 	What is ETAM?
-	Entry To A Major is a process where engineering freshmen/sophomores are admitted into a major in the department of their choice. It typically occurs around the middle of June, the summer following your freshman year, though it can take longer. For most engineering departments, as of 2020, you will be automatically admitted if your GPA is greater than 3.5 and you have completed all of the necessary core classes (calculus, ENGR 102/216, etc.). You can read more <a href="https://engineering.tamu.edu/academics/undergraduate/entry-to-a-major/index.html" target="_blank">here</a>.
+	Entry To A Major is a process where engineering freshmen/sophomores are admitted into a major in the department of their choice. It typically occurs around the middle of June, the summer following your freshman year, though it can take longer. For most engineering departments, as of 2020, you will be automatically admitted if your GPA is greater than 3.75 and you have completed all of the necessary core classes (calculus, ENGR 102/216, etc.). Note that, as more students join the College of Engineering, some of the more competitive departments, like CSCE and AERO, will get harder to get into. You can read more <a href="https://engineering.tamu.edu/academics/undergraduate/entry-to-a-major/index.html" target="_blank">here</a>.
 
 AP and Dual Credit:
 	Should I accept my AP credit from highschool?
@@ -119,7 +119,7 @@ AP and Dual Credit:
 
 Life:
 	How do I find my way around?
-	Get lost intentionally - that's how you avoid doing it accidentally in the future. Also, use <a href="http://aggiemap.tamu.edu" target="_blank">aggiemap.tamu.edu</a> for finding buildings and the very helpful <a href="http://www.aggiemaps.com" target="_blank">aggiemaps.com</a> to understand the bus system.
+	Get lost intentionally - that's how you avoid doing it accidentally in the future. Also, use <a href="http://aggiemap.tamu.edu" target="_blank">aggiemap.tamu.edu</a> for finding buildings and the very helpful <a href="https://transport.tamu.edu/busroutes/" target="_blank">TAMU Bus Routes</a> to understand the bus system.
 
 	What orgs should I join?
 	The Navigators are a great Bible study organization, and we'd love to get you involved. Check out <a href="http://www.AggieNavs.org" target="_blank">AggieNavs.org</a>! Also, <a href="http://studentactivities.tamu.edu" target="_blank">Student Activities</a> has a list of all on-campus organizations.
@@ -144,7 +144,7 @@ Miscellaneous:
 	You definitely can, but be sure to stop at stop signs - students have been known to get tickets for running them.
 
 	Should I be a 2%er?
-	Nope. Go to at least one football game over the next four years. You'll be glad you did, even if you're not a football person. It's a lot of fun, and it makes for a great story..
+	Nope. Go to at least one football game over the next four years. You'll be glad you did, even if you're not a football person. It's a lot of fun, and it makes for a great story! :)
 
 	Those emails are fake, right?
 	You mean my email addresses? You're a very observant who hovers over hyperlinks! Turns out, I am the proud owner of both <a href="mailto:maroon@tamu.edu" target="_blank">maroon@tamu.edu</a> and <a href="mailto:heyyouIbetyoudidntknowInowofficiallyhavethelongestemailyoucanget@tamu.edu" target="_blank">heyyouIbetyoudidn'tknowInowofficiallyhavethelongestemailyoucanget@tamu.edu</a>. You can get your own on the <a href="https://directory.tamu.edu" target="_blank">TAMU Directory</a>!
